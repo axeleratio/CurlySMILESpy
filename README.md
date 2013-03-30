@@ -1,10 +1,10 @@
 ****************************************************************************
 Python modules CurlySMILES in Python 
-Version 1.0.1
-Axeleratio at http://www.axeleratio.com
+Version 1.0.1 | Axeleratio at http://www.axeleratio.com |
+CurlySMILES publication: http://www.jcheminf.com/content/3/1/1
 ****************************************************************************
 
-Date: November 9, 2010
+Date: November 9, 2010 (updated March 29, 2013)
 
 0. License: GNU General Public License (see: COPYING)
 
@@ -20,7 +20,7 @@ I. Description
     
     For a first-glance introduction, run:  python code_snippet.py
                                            ----------------------
-    (also see: http://www.axeleratio.com/csm/proj/py/doc/codesnippet.pdf)
+    ( also see: http://www.axeleratio.com/csm/proj/py/doc/codesnippet.pdf )
 
     Run python testing.py to test a diverse set of 85 notations.
         -----------------
@@ -75,7 +75,5 @@ IV. Additional resources and notes
     http://www.axeleratio.com/csm/proj/py/doc/CurlySMILESinPython.htm
 
 
-    A CurlySMILES manuscript has been submitted for review and publication
-    in the open-access Journal of Cheminformatics (www.jcheminf.com).
 
     
