@@ -1,6 +1,6 @@
 ****************************************************************************
 Python modules CurlySMILES in Python |
-Version 1.0.1 | Axeleratio's CaurlySMILES Project: http://www.axeleratio.com/csm/proj/main.htm |
+Version 1.0.1 | Axeleratio's CurlySMILES Project: http://www.axeleratio.com/csm/proj/main.htm |
 CurlySMILES publication: http://www.jcheminf.com/content/3/1/1
 ****************************************************************************
 
