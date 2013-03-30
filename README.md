@@ -68,11 +68,11 @@ IV. Additional resources and notes
     For more information about the CurlySMILES language and its 
     applications go to:
 
-    <http://www.axeleratio.com/csm/proj/main.htm>
+    http://www.axeleratio.com/csm/proj/main.htm
 
     and 
 
-    <http://www.axeleratio.com/csm/proj/py/doc/CurlySMILESinPython.htm>
+    http://www.axeleratio.com/csm/proj/py/doc/CurlySMILESinPython.htm
 
 
     A CurlySMILES manuscript has been submitted for review and publication
